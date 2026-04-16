@@ -20,6 +20,13 @@
       "wifi": "itsalat-net",
       "url": "http://192.168.300.1/user",
       "version": "v7"
+    },
+    {
+      "name": "الامير نت",
+      "location": "غيل باوزير",
+      "wifi": "AlAmeer-net",
+      "url": "http://192.168.400.1/user",
+      "version": "v6"
     }
   ]
 }
