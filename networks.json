@@ -5,28 +5,32 @@
       "location": "المكلا",
       "wifi": "GALAXY🪐NET",
       "url": "http://192.168.100.1/user",
-      "version": "v6"
+      "version": "v6",
+      "logo": "https://raw.githubusercontent.com/myriadh11/baqati/main/icons/1776301785391_logo_1769740459.png"
     },
     {
       "name": "الدار نت",
       "location": "غيل باوزير",
       "wifi": "ALDARnet",
       "url": "http://192.168.200.1/user",
-      "version": "v6"
+      "version": "v6",
+      "logo": null
     },
     {
       "name": "اتصالات الغيل",
       "location": "صنعاء",
       "wifi": "itsalat-net",
       "url": "http://192.168.300.1/user",
-      "version": "v7"
+      "version": "v7",
+      "logo": null
     },
     {
       "name": "الامير نت",
       "location": "غيل باوزير",
       "wifi": "AlAmeer-net",
       "url": "http://192.168.400.1/user",
-      "version": "v6"
+      "version": "v6",
+      "logo": null
     }
   ]
 }
