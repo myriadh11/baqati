@@ -1,0 +1,11 @@
+{
+  "networks": [
+    {
+      "name": "جالكسي نت",
+      "location": "المكلا",
+      "wifi": "GALAXY🪐NET",
+      "url": "http://192.168.100.1/user",
+      "version": "v6"
+    }
+  ]
+}
