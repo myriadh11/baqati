@@ -6,6 +6,13 @@
       "wifi": "GALAXY🪐NET",
       "url": "http://192.168.100.1/user",
       "version": "v6"
+    },
+    {
+      "name": "الدار نت",
+      "location": "غيل باوزير",
+      "wifi": "ALDARnet",
+      "url": "http://192.168.200.1/user",
+      "version": "v6"
     }
   ]
 }
