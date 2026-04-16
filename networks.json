@@ -31,6 +31,14 @@
       "url": "http://192.168.400.1/user",
       "version": "v6",
       "logo": null
+    },
+    {
+      "name": "شبكة ماكسموم نت",
+      "location": "غيل باوزير",
+      "wifi": "maximum-net",
+      "url": "http://192.168.500.1/user",
+      "version": "v6",
+      "logo": null
     }
   ]
 }
